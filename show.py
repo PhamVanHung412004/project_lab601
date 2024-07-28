@@ -1,6 +1,6 @@
 from init import show_plot,piechart,plt,st,pd
 
-subject = ["Toán","Ngữ Văn","Ngoại Ngữ","Vật Lý","Hóa Học","Sinh Học","Lịch Sử","Địa Lý","GDCD"]
+subject = ["Toán","Ngữ Văn","Ngoại Ngữ","Vật Lý","Hóa Học","Sinh Học","Lịch Sử","Địa lý","GDCD"]
 
 csv_file_path = 'data_clean.csv'
 st.title("Điểm thi tốt nghiệp năm 2022 trên địa bàn thành phố Hà Nội")
