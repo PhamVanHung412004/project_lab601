@@ -19,7 +19,7 @@ st.write(df.describe())
 st.write("5 hàng đầu tiên:")
 st.write(df.head())
 
-subject = ["Toán","Ngữ Văn","Ngoại Ngữ","Vật Lý","Hóa Học","Sinh Học","Lịch Sử","Địa Lý","GDCD"]
+# subject = ["Toán","Ngữ Văn","Ngoại Ngữ","Vật Lý","Hóa Học","Sinh Học","Lịch Sử","Địa lý","GDCD"]
 
 st.title("Biểu đồ phân tích")
 
